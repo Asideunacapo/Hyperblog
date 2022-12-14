@@ -1,4 +1,10 @@
 hoy hablaremos de la vida de un capo que aveces
 en lugar de capo lo quiero matar
+<<<<<<< HEAD
 master 2
+=======
+master 1
+experimento 1
+experimento 2
+>>>>>>> 8447bed (exp 2)
 oooooooo re piola
