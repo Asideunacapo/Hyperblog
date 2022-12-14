@@ -36,6 +36,11 @@ body
     width: 20px;
     vertical-align: middle;
 }
+#conteiner #foto
+{
+    width: 100px;
+  
+}
 #cabezera #tagline 
 {
  font-weight: normal;
