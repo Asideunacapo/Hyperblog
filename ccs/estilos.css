@@ -34,11 +34,10 @@ body
 #cabezera #logo
 {
     width: 20px;
-    vertical-align: middle;
 }
 #conteiner #foto
 {
-    width: 100px;
+    width: 100%;
   
 }
 #cabezera #tagline 
